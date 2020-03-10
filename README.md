@@ -2,4 +2,5 @@
 beeing smart
 husk eat lunch
 
-minPersonsOnBoard
+minPersonsOnBoard 
+source label type
